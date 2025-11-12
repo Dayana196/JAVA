@@ -3,7 +3,7 @@ public class Main {
     public static final int DIAS_DE_LA_SEMANA = 7;
 
     public static void main(String[] args) {
-        /int numero = 100;
+        int numero = 100;
         long otroNumero = 10L;
         boolean bandera = true;
         float decimal = 0.5f;
@@ -32,11 +32,11 @@ public class Main {
         System.out.println(numeros[9]);
         System.out.println(saludo); //NO es primitivo es de referencia/
 
-        /int dia = 4;
+        int dia = 4;
         actividades(dia);
         actividades(++dia);
         actividades(dia++);
-        actividades(dia);/
+        actividades(dia);
 
         System.out.println(1+2);
         System.out.println(1-2);
@@ -68,5 +68,3 @@ public class Main {
         }
     }
 }
-
-public class 

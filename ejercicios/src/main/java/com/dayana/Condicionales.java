@@ -1,4 +1,4 @@
-package com.adrian;
+package com.dayana;
 
 public class Condicionales {
     // 4. Crea un programa que diga si un número es par o impar.
